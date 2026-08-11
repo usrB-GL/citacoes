@@ -1,3 +1,3 @@
 #Citações
 
-Repositório de apoio aos meus estudos de Git
+Repositório de apoio aos meus estudos de Git.
